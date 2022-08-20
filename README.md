@@ -24,8 +24,9 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://raw.githubusercontent.com/sxlz-jack/sxlz-jack/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/platane/platane/main/assets/github-contribution-grid-snake.svg)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ## 社交网络
 
 <table>
