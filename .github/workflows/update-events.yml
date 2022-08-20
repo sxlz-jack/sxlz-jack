@@ -1,0 +1,19 @@
+name: Update events
+
+on:
+  watch:
+    types: started
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Social Readme
+        uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://sxlz-jack.github.io
+          blog_limit: 4
+          douban_name: sxlz888
+          douban_limit: 4
