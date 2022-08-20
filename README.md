@@ -24,16 +24,16 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg" ></div>
+![](https://raw.githubusercontent.com/sxlz-jack/sxlz-jack/main/assets/github-contribution-grid-snake.svg)
 
-## 📺Social
+## 社交网络
 
 <table>
 <tbody>
    <tr>
        <td  valign="top" width="50%">
 
-### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+### <a href="https://sxlz-jack.github.io/" target="_blank">博客</a>
 
 <!-- START_SECTION:blog -->
 
@@ -41,7 +41,7 @@
 </td>
        <td  valign="top" width="50%">
 
-### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
+###  <a href="https://www.douban.com/people/wxq888/" target="_blank">豆瓣</a>
 
 <!-- START_SECTION:douban -->
 
