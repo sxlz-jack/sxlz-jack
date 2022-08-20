@@ -24,5 +24,29 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/phh95/phh95/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg" ></div>
 
+## 📺Social
+
+<table>
+<tbody>
+   <tr>
+       <td  valign="top" width="50%">
+
+### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+       <td  valign="top" width="50%">
+
+### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
+
+<!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban -->
+</td>
+        </tr>
+</tbody>
+</table>
