@@ -5,7 +5,7 @@
 
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=3000&pause=500&color=298EBB&center=%E7%9C%9F%E5%AE%9E%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&width=478&height=60&lines=%E8%BF%99%E4%B8%AA%E9%9A%90%E8%97%8F%E7%9A%84%E8%8F%9C%E9%B8%A1%E8%A2%AB%E4%BD%A0%E5%8F%91%E7%8E%B0%E4%BA%86;console.log%EF%BC%88%22welcome%22%EF%BC%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img alt="Typing SVG" height="60%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=31&amp;duration=3000&amp;pause=500&amp;color=298EBB&amp;center=%E7%9C%9F%E5%AE%9E%E7%9A%84&amp;vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&amp;width=478&amp;height=60&amp;lines=%E8%BF%99%E4%B8%AA%E9%9A%90%E8%97%8F%E7%9A%84%E8%8F%9C%E9%B8%A1%E8%A2%AB%E4%BD%A0%E5%8F%91%E7%8E%B0%E4%BA%86;console.log%EF%BC%88%22welcome%22%EF%BC%89" width="60%"/></a>
 
 ---
 <img height="168" src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/programmer-programming.gif" width="360"/></img>
@@ -24,4 +24,5 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Achuan-2/Achuan-2/assets/github-contribution-grid-snake.svg" ></div>
+
