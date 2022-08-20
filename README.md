@@ -24,5 +24,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Achuan-2/Achuan-2/assets/github-contribution-grid-snake.svg" ></div>
-
+![](https://raw.githubusercontent.com/sxlz-jack/sxlz-jack/main/assets/github-contribution-grid-snake.svg)
