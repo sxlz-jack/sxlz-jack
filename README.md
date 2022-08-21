@@ -10,64 +10,68 @@
 ---
 ### 关于我 
 
-<div align="center">
-    <img src="https://metrics.lecoq.io/sxlz-jack?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-
 <table>
 <tr>
 <td width="58%">
 
-- 🤖 I’m currently a SRE working in Beijing, China.
-- 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
+- 🤖 是一名学生，在重庆
+- 👨‍💻 正在学习且将要学习：Python，JS & TS、Vue、React，etc...
 - ✍️ MyBlog: [懒书](http://www.sxlz.club/) & [致彩之境](https://sxlz-jack.github.io/)
 - 💬 Ask me about Anything you want~
 - 📫 联系: [email](888wxq@gmail.com)
 - 👏 GitHub: [![](https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social)](https://github.com/sxlz-jack/)
-- 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
-
+- 🎣 活动: 看书,观影,长步, 听音乐
 </td>
 <td width="42%">
 <img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/programmer-programming.gif" width="500" height="280">
 </td>
 </tr>
 </table>
+
+<div align="center">
+    <img src="https://metrics.lecoq.io/sxlz-jack?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
 <p align="center">
 <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/8CAAE0.svg" ></a>
 <a title="github" target="_blank" href="https://github.com/sxlz-jack"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 </p>
-
-**「Stay hungry，Stay foolish.」** ❤️
 <table>
 <tr>
 <td width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlz-jack&show_icons=true&theme=algolia&)
-</td>
-
-<td width="50%">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxlz-jack&theme=algolia&locale=zh)](https://git.io/streak-stats)
-</td>
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark&locale=zh)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</table>
-
-![](https://raw.githubusercontent.com/sxlz-jack/sxlz-jack/main/assets/github-contribution-grid-snake.svg)
+[//]: # (GitHub统计数据)
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=sxlz-jack&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sxlz-jack&show_icons=true&theme=algolia&locale=cn" />
 </div>
 
-## 社交网络
+[//]: # (合计贡献以及连续贡献记录)
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sxlz-jack&theme=algolia&locale=zh"/>
+</div>
 
+[//]: # (最常用的语言)
+<div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlz-jack&layout=compact&locale=cn&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=sxlz-jack&theme=darkhub&no-frame=true&no-bg=true" />
+</div>
+
+[//]: # (活动数据折线图)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark&locale=zh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[//]: # (贪吃蛇活动图)
+![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-dark-mode-only)![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+## 社交网络
 <table>
 <tbody>
    <tr>
        <td  valign="top" width="50%">
 
-### <a href="http://www.sxlz.club/" target="_blank">博客</a>
+### <a href="http://sxlz.me/" target="_blank">博客</a>
 
 <!-- START_SECTION:blog -->
 
@@ -90,6 +94,6 @@
 * <a href='http://movie.douban.com/subject/30394535/' target='_blank'>看过被光抓走的人</a> - 2020-08-07
 <!-- END_SECTION:douban -->
 </td>
-        </tr>
+</tr>
 </tbody>
 </table>
