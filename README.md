@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **sxlz-jack/sxlz-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,35 +9,55 @@
 ---
 ### 关于我 
 
-<table>
-<tr>
-<td width="58%">
-
-- 🤖 是一名学生，在重庆
-- 👨‍💻 正在学习且将要学习：Python，JS & TS、Vue、React，etc...
-- ✍️ MyBlog: [懒书](http://www.sxlz.club/) & [致彩之境](https://sxlz-jack.github.io/)
-- 💬 Ask me about Anything you want~
-- 📫 联系: [email](888wxq@gmail.com)
-- 👏 GitHub: [![](https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social)](https://github.com/sxlz-jack/)
-- 🎣 活动: 看书,观影,长步, 听音乐
-</td>
-<td width="42%">
+<div align="center">
 <img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/programmer-programming.gif" width="500" height="280">
-</td>
-</tr>
-</table>
+</div>
+<br>
 
+<div align="center">
+<a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/8CAAE0.svg" ></a>
+<img  src="https://visitor-badge.glitch.me/badge?page_id=sxlz-jack" />
+</div>  
+
+
+
+---
+
+- 🤖 是一名在读学生，在重庆，非科班学生
+
+
+- 👨‍💻 正在学习：
+
+  <span >
+  <img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+  <img  src="https://img.shields.io/badge/vue-框架-4FC08D">
+  <img src="https://img.shields.io/badge/react-框架-61DAFB">
+  <img src="https://img.shields.io/badge/python-语言-3776AB">
+  <img src="https://img.shields.io/badge/typescript-语言-3178C6">
+  </span>
+  
+
+- ✍️ MyBlog:
+
+
+- <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/8CAAE0.svg" ></a>
+  & [致彩之境](https://sxlz-jack.github.io/)
+
+
+- 📫 联系: [email](888wxq@gmail.com)
+
+
+- 👏 GitHub: [![](https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social)](https://github.com/sxlz-jack/)<a title="github" target="_blank" href="https://github.com/sxlz-jack"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+
+
+- 🎣 活动: 看书,观影,跑步, 听音乐
+
+[//]: # (Github账号详细参数)
 <div align="center">
     <img src="https://metrics.lecoq.io/sxlz-jack?template=classic&config.timezone=Asia%2FShanghai">
 </div>
-
-<p align="center">
-<a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/8CAAE0.svg" ></a>
-<a title="github" target="_blank" href="https://github.com/sxlz-jack"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-</p>
-<table>
-<tr>
-<td width="50%">
 
 [//]: # (GitHub统计数据)
 <div align="center">
@@ -63,11 +82,11 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark&locale=zh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [//]: # (贪吃蛇活动图)
-![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-dark-mode-only)![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ## 社交网络
 <table>
-<tbody>
    <tr>
        <td  valign="top" width="50%">
 
@@ -95,5 +114,4 @@
 <!-- END_SECTION:douban -->
 </td>
 </tr>
-</tbody>
 </table>
