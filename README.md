@@ -10,6 +10,10 @@
 ---
 ### 关于我 
 
+<div align="center">
+    <img src="https://metrics.lecoq.io/sxlz-jack?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
 <table>
 <tr>
 <td width="58%">
@@ -38,20 +42,23 @@
 <tr>
 <td width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlz-jack&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlz-jack&show_icons=true&theme=algolia&)
 </td>
 
 <td width="50%">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxlz-jack&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxlz-jack&theme=algolia&locale=zh)](https://git.io/streak-stats)
 </td>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark&locale=zh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </table>
 
 ![](https://raw.githubusercontent.com/sxlz-jack/sxlz-jack/main/assets/github-contribution-grid-snake.svg)
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=sxlz-jack&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 
 ## 社交网络
 
