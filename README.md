@@ -1,22 +1,20 @@
 ### Hi there 👋
 <!--
 **sxlz-jack/sxlz-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
-
+<div align="center">
 <a href="https://git.io/typing-svg"><img alt="Typing SVG" height="60%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=31&amp;duration=3000&amp;pause=500&amp;color=298EBB&amp;center=%E7%9C%9F%E5%AE%9E%E7%9A%84&amp;vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&amp;width=478&amp;height=60&amp;lines=%E8%BF%99%E4%B8%AA%E9%9A%90%E8%97%8F%E7%9A%84%E8%8F%9C%E9%B8%A1%E8%A2%AB%E4%BD%A0%E5%8F%91%E7%8E%B0%E4%BA%86;console.log%EF%BC%88%22welcome%22%EF%BC%89" width="60%"/></a>
+</div>
 
 ---
-### 关于我 
-
+### 关于我
 <div align="center">
 <img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/programmer-programming.gif" width="500" height="280">
 </div>
 <br>
-
 <div align="center">
-<a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/8CAAE0.svg" ></a>
 <img  src="https://visitor-badge.glitch.me/badge?page_id=sxlz-jack" />
+<img  src="https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social" />
 </div>  
 
 
@@ -26,33 +24,83 @@
 - 🤖 是一名在读学生，在重庆，非科班学生
 
 
-- 👨‍💻 正在学习：
+- 👨‍ 正在学习：
 
   <span >
-  <img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-  <img  src="https://img.shields.io/badge/vue-框架-4FC08D">
-  <img src="https://img.shields.io/badge/react-框架-61DAFB">
-  <img src="https://img.shields.io/badge/python-语言-3776AB">
-  <img src="https://img.shields.io/badge/typescript-语言-3178C6">
-  </span>
+  <img  src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-CSS3-1572B6?&logo=css3" />
+  <img  src="https://img.shields.io/badge/-JavaScript-72A494?&logo=javascript" />
+  <img  src="https://img.shields.io/badge/vue-4FC08D?&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?&logo=Typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/c语言-A8B9CC?&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?&logo=Windows&logoColor=white">
+  <img src="https://img.shields.io/badge/ABB RobotStudio-FF9E0F?&logo=ABB RobotStudio&logoColor=white">
   
+  </span>
+
+- 💻 想要学习：
+  
+  <span >
+  <img src="https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Spring Boot-6db33f?&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-607078?&logo=VMware&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999ff?&logo=Adobe Premiere Pro&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff?&logo=Adobe Photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe After Effects-04ACE6?&logo=Adobe After Effects&logoColor=white">
+  <img src="https://img.shields.io/badge/Cinema 4D-011A6A?&logo=Cinema 4D&logoColor=white">
+  <img src="https://img.shields.io/badge/Houdini-FF4713?&logo=Houdini&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-F5792A?&logo=Blender&logoColor=white">
+</span>
+
+
+- IDE：
+
+  <span >
+  <img src="https://img.shields.io/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Sublime Text-FF9800?&logo=Sublime Text&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/WebStorm-535D6C?&logo=WebStorm&logoColor=white">
+  </span>
+
 
 - ✍️ MyBlog:
 
-
-- <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://www.sxlz.club/wp-content/themes/sakura-3.x/manifest/forin/8CAAE0.svg" ></a>
-  & [致彩之境](https://sxlz-jack.github.io/)
-
-
-- 📫 联系: [email](888wxq@gmail.com)
+  <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://img.shields.io/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
+  <a title="websize" target="_blank" href="https://sxlz.me"><img src="https://img.shields.io/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
 
 
-- 👏 GitHub: [![](https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social)](https://github.com/sxlz-jack/)<a title="github" target="_blank" href="https://github.com/sxlz-jack"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+- 博客框架：
+
+  <span >
+  <img src="https://img.shields.io/badge/hexo-0E83CD?&logo=hexo&logoColor=white">
+  <img src="https://img.shields.io/badge/WordPress-21759B?&logo=WordPress&logoColor=white">
+  </span>
 
 
-- 🎣 活动: 看书,观影,跑步, 听音乐
+
+- 📫 联系: 
+  
+  <a title="gmail" target="_blank" href="https://888wxq@gmail.com"><img src="https://img.shields.io/badge/888wxq@gmail.com-EA4335?&logo=gmail&logoColor=white"></a>
+  <a title="telegram" target="_blank" href="https://t.me/wsxlz"><img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=Telegram&logoColor=white"></a>
+
+
+- 🎣 生活日常:
+
+  <span >
+   <img  src="https://img.shields.io/badge/看书-0288D1?&logo=BookStack&logoColor=white"/>
+   <img  src="https://img.shields.io/badge/-观影-1572B6?&logo=Warner Bros.&logoColor=white"/>
+   <img  src="https://img.shields.io/badge/-跑步-0079C1?&logo=Corona Engine" />
+   <img  src="https://img.shields.io/badge/听音乐-84BD00?&logo=Apple Music&logoColor=white">
+  </span>
 
 [//]: # (Github账号详细参数)
 <div align="center">
@@ -84,6 +132,7 @@
 [//]: # (贪吃蛇活动图)
 ![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## 社交网络
 <table>
@@ -93,7 +142,11 @@
 ### <a href="http://sxlz.me/" target="_blank">博客</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='http://example.com/post/%E7%94%B3%E8%AF%B7%E5%BE%AE%E8%BD%AFE5%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%A2%E9%98%85.html' target='_blank'>申请微软E5开发者订阅</a> - 2022-08-06
+* <a href='http://example.com/post/github%E4%BB%93%E5%BA%93%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D.html' target='_blank'>github仓库绑定自定义域名/子域名</a> - 2022-07-20
+* <a href='http://example.com/post/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E8%87%B4%E5%BD%A9%E4%B9%8B%E9%95%9C.html' target='_blank'>欢迎来到 致彩之镜</a> - 2022-07-15
+* <a href='http://example.com/post/hexo-aurora-github%E6%90%AD%E5%BB%BA.html' target='_blank'>hexo+aurora+github搭建</a> - 2022-07-15
+* <a href='http://example.com/post/hello-world.html' target='_blank'></a> - 2022-07-11
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
