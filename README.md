@@ -23,7 +23,7 @@
 <br>
 <li>
 <img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/martina-remote-work-with-a-laptop.gif" width="80"/>
-<font size="3">我还是一名学生，在重庆</font>
+<font size="3"><strong>一名非科班学生，在重庆，以所掌握的绵薄知识量，去折腾一翻，喜欢对身边的事物深入探究原理。</font></strong></li>
 <br><br>
 
 [//]: # (正在学习)
@@ -50,7 +50,6 @@
 <img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-searching.gif" width="60"/>
 <font size="5">想要学习:</font>
 <br>
-  
   <span >
   <img src="https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
@@ -65,12 +64,13 @@
   <img src="https://img.shields.io/badge/Houdini-FF4713?&logo=Houdini&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-F5792A?&logo=Blender&logoColor=white">
 </span>
+<br><br>
 
 [//]: # (IDE)
 <br>
 <li>
 <img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/sammy-service-support.gif" width="80"/>
-<font size="3">IDE：</font>
+<font size="5">IDE：</font>
 <br>
   <span >
   <img src="https://img.shields.io/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
