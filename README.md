@@ -22,14 +22,14 @@
 [//]: # (自述)
 <br>
 <li>
-<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/martina-remote-work-with-a-laptop.gif" width="80"/>
+<img height="100" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/martina-remote-work-with-a-laptop.gif" width="100"/>
 <font size="3"><strong>一名非科班学生，在重庆，以所掌握的绵薄知识量，去折腾一翻，喜欢对身边的事物深入探究原理。</font></strong></li>
 <br><br>
 
 [//]: # (正在学习)
 <li>
-<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-uploading.gif" width="60"/>
-<font size="5">正在学习:</font>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-uploading.gif" width="80"/>
+<font size="8">正在学习:</font>
 <br>
   <span >
   <img  src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
@@ -47,8 +47,8 @@
 
 [//]: # (想要学习)
 <li>
-<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-searching.gif" width="60"/>
-<font size="5">想要学习:</font>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-searching.gif" width="80"/>
+<font size="8">想要学习:</font>
 <br>
   <span >
   <img src="https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white">
@@ -67,10 +67,9 @@
 <br><br>
 
 [//]: # (IDE)
-<br>
 <li>
 <img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/sammy-service-support.gif" width="80"/>
-<font size="5">IDE：</font>
+<font size="8">IDE：</font>
 <br>
   <span >
   <img src="https://img.shields.io/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
@@ -82,8 +81,8 @@
 
 [//]: # (我的博客)
 <li>
-<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/transistor-green-energy.gif" width="60"/>
-<font size="5">MyBlog:</font>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/transistor-green-energy.gif" width="80"/>
+<font size="8">MyBlog:</font>
 <br>
 <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://img.shields.io/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
 <a title="websize" target="_blank" href="https://sxlz.me"><img src="https://img.shields.io/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
@@ -91,8 +90,8 @@
 
 [//]: # (博客框架)
 <li>
-<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-109.gif" width="69"/>
-<font size="5">博客框架：</font>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-109.gif" width="80"/>
+<font size="8">博客框架：</font>
 <br>
   <span >
   <img src="https://img.shields.io/badge/hexo-0E83CD?&logo=hexo&logoColor=white">
@@ -102,16 +101,16 @@
 
 [//]: # (联系)
 <li>
-<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-stop-spam.gif" width="60"/>
-<font size="5">联系:</font>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-stop-spam.gif" width="80"/>
+<font size="8">联系:</font>
 <br>
   <a title="gmail" target="_blank" href="https://888wxq@gmail.com"><img src="https://img.shields.io/badge/888wxq@gmail.com-EA4335?&logo=gmail&logoColor=white"></a>
   <a title="telegram" target="_blank" href="https://t.me/wsxlz"><img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=Telegram&logoColor=white"></a>
 <br><br>
 
 <li>
-<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-space-adventures.gif" width="60"/>
-<font size="5">日常活动:</font>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-space-adventures.gif" width="80"/>
+<font size="8">日常活动:</font>
 <br>
   <span >
    <img  src="https://img.shields.io/badge/看书-0288D1?&logo=BookStack&logoColor=white"/>
