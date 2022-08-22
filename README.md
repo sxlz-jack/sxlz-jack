@@ -132,6 +132,10 @@
 [//]: # (贪吃蛇活动图)
 ![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+[//]: # (github 3d活动图)
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## 社交网络
