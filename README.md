@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 <!--
 **sxlz-jack/sxlz-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -15,17 +15,22 @@
 <div align="center">
 <img  src="https://visitor-badge.glitch.me/badge?page_id=sxlz-jack" />
 <img  src="https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social" />
-</div>  
-
-
+</div>
 
 ---
 
-- 🤖 是一名在读学生，在重庆，非科班学生
+[//]: # (自述)
+<br>
+<li>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/martina-remote-work-with-a-laptop.gif" width="80"/>
+<font size="3">我还是一名学生，在重庆</font>
+<br><br>
 
-
-- ![]()正在学习：
-
+[//]: # (正在学习)
+<li>
+<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-uploading.gif" width="60"/>
+<font size="5">正在学习:</font>
+<br>
   <span >
   <img  src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
   <img  src="https://img.shields.io/badge/-CSS3-1572B6?&logo=css3" />
@@ -37,10 +42,14 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?&logo=Windows&logoColor=white">
   <img src="https://img.shields.io/badge/ABB RobotStudio-FF9E0F?&logo=ABB RobotStudio&logoColor=white">
-  
   </span>
+<br><br>
 
-- 💻 想要学习：
+[//]: # (想要学习)
+<li>
+<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-searching.gif" width="60"/>
+<font size="5">想要学习:</font>
+<br>
   
   <span >
   <img src="https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white">
@@ -57,47 +66,60 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?&logo=Blender&logoColor=white">
 </span>
 
-
-- IDE：
-
+[//]: # (IDE)
+<br>
+<li>
+<img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/sammy-service-support.gif" width="80"/>
+<font size="3">IDE：</font>
+<br>
   <span >
   <img src="https://img.shields.io/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Sublime Text-FF9800?&logo=Sublime Text&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-535D6C?&logo=WebStorm&logoColor=white">
   </span>
+<br><br>
 
+[//]: # (我的博客)
+<li>
+<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/transistor-green-energy.gif" width="60"/>
+<font size="5">MyBlog:</font>
+<br>
+<a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://img.shields.io/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
+<a title="websize" target="_blank" href="https://sxlz.me"><img src="https://img.shields.io/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
+<br><br>
 
-- <img alt="github contribution grid snake animation" height="20" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.gif" width="20"/>
-  MyBlog:
-
-  <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://img.shields.io/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
-  <a title="websize" target="_blank" href="https://sxlz.me"><img src="https://img.shields.io/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
-
-
-- 博客框架：
-
+[//]: # (博客框架)
+<li>
+<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-109.gif" width="69"/>
+<font size="5">博客框架：</font>
+<br>
   <span >
   <img src="https://img.shields.io/badge/hexo-0E83CD?&logo=hexo&logoColor=white">
   <img src="https://img.shields.io/badge/WordPress-21759B?&logo=WordPress&logoColor=white">
   </span>
+<br><br>
 
-
-
-- 📫 联系: 
-  
+[//]: # (联系)
+<li>
+<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-stop-spam.gif" width="60"/>
+<font size="5">联系:</font>
+<br>
   <a title="gmail" target="_blank" href="https://888wxq@gmail.com"><img src="https://img.shields.io/badge/888wxq@gmail.com-EA4335?&logo=gmail&logoColor=white"></a>
   <a title="telegram" target="_blank" href="https://t.me/wsxlz"><img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=Telegram&logoColor=white"></a>
+<br><br>
 
-
-- 🎣 生活日常:
-
+<li>
+<img height="60" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/flame-space-adventures.gif" width="60"/>
+<font size="5">日常活动:</font>
+<br>
   <span >
    <img  src="https://img.shields.io/badge/看书-0288D1?&logo=BookStack&logoColor=white"/>
    <img  src="https://img.shields.io/badge/-观影-1572B6?&logo=Warner Bros.&logoColor=white"/>
    <img  src="https://img.shields.io/badge/-跑步-0079C1?&logo=Corona Engine" />
    <img  src="https://img.shields.io/badge/听音乐-84BD00?&logo=Apple Music&logoColor=white">
   </span>
+<br><br>
 
 [//]: # (Github账号详细参数)
 <div align="center">
