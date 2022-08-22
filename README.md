@@ -24,7 +24,7 @@
 - 🤖 是一名在读学生，在重庆，非科班学生
 
 
-- 👨‍ 正在学习：
+- ![]()正在学习：
 
   <span >
   <img  src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
@@ -46,10 +46,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
-  
   <img src="https://img.shields.io/badge/Spring Boot-6db33f?&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/VMware-607078?&logo=VMware&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white">
@@ -72,7 +68,8 @@
   </span>
 
 
-- ✍️ MyBlog:
+- <img alt="github contribution grid snake animation" height="20" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.gif" width="20"/>
+  MyBlog:
 
   <a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://img.shields.io/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
   <a title="websize" target="_blank" href="https://sxlz.me"><img src="https://img.shields.io/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
@@ -131,9 +128,6 @@
 
 [//]: # (贪吃蛇活动图)
 ![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 [//]: # (github 3d活动图)
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
