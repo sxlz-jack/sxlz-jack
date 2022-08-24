@@ -145,7 +145,11 @@
 </div>
 
 [//]: # (活动数据折线图)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark&locale=zh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://denvercoder1-activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-me3d.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [//]: # (贪吃蛇活动图)
 ![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
