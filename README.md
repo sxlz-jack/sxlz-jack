@@ -150,10 +150,10 @@
 
 
 [//]: # (贪吃蛇活动图)
-![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake1.0.01.svg#gh-light-mode-only)
+![github contribution grid snake animation](./assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [//]: # (github 3d活动图)
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow1.0.01.svg" width="100%"/></div>
+<div align="center" ><img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 ## 社交网络
 <table>
