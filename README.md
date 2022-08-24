@@ -132,7 +132,7 @@
 
 [//]: # (合计贡献以及连续贡献记录)
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sxlz-jack&theme=algolia&locale=zh"/>
+    <img height="200px" src="https://sxlz-streak.herokuapp.com/?user=sxlz-jack&theme=algolia&locale=zh"/>
 </div>
 
 [//]: # (最常用的语言)
@@ -146,16 +146,14 @@
 
 [//]: # (活动数据折线图)
 
-[![Ashutosh's github activity graph](https://denvercoder1-activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-me3d.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://sxlz-activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [//]: # (贪吃蛇活动图)
-![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/github-contribution-grid-snake1.0.01.svg#gh-light-mode-only)
 
 [//]: # (github 3d活动图)
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow1.0.01.svg" width="100%"/></div>
 
 ## 社交网络
 <table>
