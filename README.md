@@ -153,25 +153,6 @@
 [//]: # (github 3d活动图)
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
-[//]: # (GitHub地球)
-<div class="js-webgl-globe-data">
-    <div class="js-webgl-globe" style="height: 600px; width:800px;">
-    <canvas width="800" height="600" style="width: 800px; height: 600px;" class="webgl-canvas js-globe-canvas"></canvas></div>
-  <div class="data-info position-absolute top-0 left-0 rounded text-mono f6 py-3 pl-2 pr-5 z-3 js-globe-popup text-white d-none" style="max-width: 450px; background-color: rgba(0, 0, 0, 0.4); backdrop-filter: blur(10px); transform: translate(493.2px, 575.725px);">
-      <a class="js-globe-popover-card no-underline d-flex flex-row flex-items-start" href="https://github.com/AlphaWallet/alpha-wallet-ios/pull/2376">
-        <div class="pr-2 pt-1 pl-2">
-          <img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/earth/pull-request-icon.svg" aria-hidden="true" class="js-globe-popup-icon-pr">
-          <img src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/earth/north-star.svg" aria-hidden="true" class="js-globe-popup-icon-acv mt-n1 d-none" width="24">
-        </div>
-        <div>
-          <div class="f4 text-white js-globe-popover-header">#2376 AlphaWallet/alpha-wallet-ios</div>
-          <div style="color: #959da5" class="js-globe-popover-body">Swift<span style="color: rgb(255, 172, 69);"> • </span>Opened in Ukraine,<br>merged  in Sydney</div>
-        </div>
-      </a>
-</div>
-</div>
-<script crossorigin="anonymous" defer="defer" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/earth/eargithub.js"></script>
-
 ## 社交网络
 <table>
    <tr>
