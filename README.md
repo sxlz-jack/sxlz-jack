@@ -140,10 +140,6 @@
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlz-jack&layout=compact&locale=cn&theme=algolia"/>
 </div>
 
-<div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=sxlz-jack&theme=darkhub&no-frame=true&no-bg=true" />
-</div>
-
 [//]: # (活动数据折线图)
 
 [![Ashutosh's github activity graph](https://sxlz-activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
