@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 <img  src="https://visitor-badge.glitch.me/badge?page_id=sxlz-jack" />
-<img  src="https://img.shields.io/github/followers/sxlz-jack?label=follow%20me&style=social" />
+<img  src="https://shields.io/github/followers/sxlz-jack?label=follow%20me&style=social" />
 </div>
 
 ---
@@ -32,16 +32,16 @@
 <font size="8">正在学习:</font>
 <br>
   <span >
-  <img  src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-CSS3-1572B6?&logo=css3" />
-  <img  src="https://img.shields.io/badge/-JavaScript-72A494?&logo=javascript" />
-  <img  src="https://img.shields.io/badge/vue-4FC08D?&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?&logo=Typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/c语言-A8B9CC?&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?&logo=Windows&logoColor=white">
-  <img src="https://img.shields.io/badge/ABB RobotStudio-FF9E0F?&logo=ABB RobotStudio&logoColor=white">
+  <img  src="https://sxlz-shields.herokuapp.com/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
+  <img  src="https://sxlz-shields.herokuapp.com/badge/-CSS3-1572B6?&logo=css3" />
+  <img  src="https://sxlz-shields.herokuapp.com/badge/-JavaScript-72A494?&logo=javascript" />
+  <img  src="https://sxlz-shields.herokuapp.com/badge/vue-4FC08D?&logo=Vue.js&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/typescript-3178C6?&logo=Typescript&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/c语言-A8B9CC?&logo=c&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Linux-FCC624?&logo=linux&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Android-3DDC84?&logo=Android&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Windows-0078D6?&logo=Windows&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/ABB RobotStudio-FF9E0F?&logo=ABB RobotStudio&logoColor=white">
   </span>
 <br><br>
 
@@ -51,18 +51,18 @@
 <font size="8">想要学习:</font>
 <br>
   <span >
-  <img src="https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6db33f?&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-607078?&logo=VMware&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999ff?&logo=Adobe Premiere Pro&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff?&logo=Adobe Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe After Effects-04ACE6?&logo=Adobe After Effects&logoColor=white">
-  <img src="https://img.shields.io/badge/Cinema 4D-011A6A?&logo=Cinema 4D&logoColor=white">
-  <img src="https://img.shields.io/badge/Houdini-FF4713?&logo=Houdini&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-F5792A?&logo=Blender&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/python-3776AB?&logo=python&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/react-61DAFB?&logo=react&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Node.js-339933?&logo=Node.js&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Spring Boot-6db33f?&logo=Spring Boot&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/VMware-607078?&logo=VMware&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Git-F05032?&logo=Git&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Adobe Premiere Pro-9999ff?&logo=Adobe Premiere Pro&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Adobe Photoshop-31a8ff?&logo=Adobe Photoshop&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Adobe After Effects-04ACE6?&logo=Adobe After Effects&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Cinema 4D-011A6A?&logo=Cinema 4D&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Houdini-FF4713?&logo=Houdini&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Blender-F5792A?&logo=Blender&logoColor=white">
 </span>
 <br><br>
 
@@ -72,10 +72,10 @@
 <font size="8">IDE：</font>
 <br>
   <span >
-  <img src="https://img.shields.io/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Sublime Text-FF9800?&logo=Sublime Text&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/WebStorm-535D6C?&logo=WebStorm&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Sublime Text-FF9800?&logo=Sublime Text&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/Visual Studio Code-007ACC?&logo=Visual Studio Code&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/WebStorm-535D6C?&logo=WebStorm&logoColor=white">
   </span>
 <br><br>
 
@@ -84,8 +84,8 @@
 <img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/transistor-green-energy.gif" width="80"/>
 <font size="8">MyBlog:</font>
 <br>
-<a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://img.shields.io/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
-<a title="websize" target="_blank" href="https://sxlz.me"><img src="https://img.shields.io/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
+<a title="websize" target="_blank" href="https://www.sxlz.club/"><img src="https://sxlz-shields.herokuapp.com/badge/%E6%87%92%E4%B9%A6-website-516B8E" ></a>
+<a title="websize" target="_blank" href="https://sxlz.me"><img src="https://sxlz-shields.herokuapp.com/badge/%E8%87%B4%E5%BD%A9%E4%B9%8B%E5%A2%83-blog-orange" ></a>
 <br><br>
 
 [//]: # (博客框架)
@@ -94,8 +94,8 @@
 <font size="8">博客框架：</font>
 <br>
   <span >
-  <img src="https://img.shields.io/badge/hexo-0E83CD?&logo=hexo&logoColor=white">
-  <img src="https://img.shields.io/badge/WordPress-21759B?&logo=WordPress&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/hexo-0E83CD?&logo=hexo&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/WordPress-21759B?&logo=WordPress&logoColor=white">
   </span>
 <br><br>
 
@@ -104,8 +104,8 @@
 <img height="80" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/polar-stop-spam.gif" width="80"/>
 <font size="8">联系:</font>
 <br>
-  <a title="gmail" target="_blank" href="https://888wxq@gmail.com"><img src="https://img.shields.io/badge/888wxq@gmail.com-EA4335?&logo=gmail&logoColor=white"></a>
-  <a title="telegram" target="_blank" href="https://t.me/wsxlz"><img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=Telegram&logoColor=white"></a>
+  <a title="gmail" target="_blank" href="https://888wxq@gmail.com"><img src="https://sxlz-shields.herokuapp.com/badge/888wxq@gmail.com-EA4335?&logo=gmail&logoColor=white"></a>
+  <a title="telegram" target="_blank" href="https://t.me/wsxlz"><img src="https://sxlz-shields.herokuapp.com/badge/Telegram-26A5E4?&logo=Telegram&logoColor=white"></a>
 <br><br>
 
 <li>
@@ -113,10 +113,10 @@
 <font size="8">日常活动:</font>
 <br>
   <span >
-   <img  src="https://img.shields.io/badge/看书-0288D1?&logo=BookStack&logoColor=white"/>
-   <img  src="https://img.shields.io/badge/-观影-1572B6?&logo=Warner Bros.&logoColor=white"/>
-   <img  src="https://img.shields.io/badge/-跑步-0079C1?&logo=Corona Engine" />
-   <img  src="https://img.shields.io/badge/听音乐-84BD00?&logo=Apple Music&logoColor=white">
+   <img  src="https://sxlz-shields.herokuapp.com/badge/看书-0288D1?&logo=BookStack&logoColor=white"/>
+   <img  src="https://sxlz-shields.herokuapp.com/badge/-观影-1572B6?&logo=Warner Bros.&logoColor=white"/>
+   <img  src="https://sxlz-shields.herokuapp.com/badge/-跑步-0079C1?&logo=Corona Engine" />
+   <img  src="https://sxlz-shields.herokuapp.com/badge/听音乐-84BD00?&logo=Apple Music&logoColor=white">
   </span>
 <br><br>
 
@@ -127,7 +127,7 @@
 
 [//]: # (GitHub统计数据)
 <div align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sxlz-jack&show_icons=true&theme=algolia&locale=cn" />
+    <img height="200px" src="https://sxlz-readme-stats.vercel.app/api?username=sxlz-jack&show_icons=true&theme=algolia&locale=cn" />
 </div>
 
 [//]: # (合计贡献以及连续贡献记录)
@@ -137,7 +137,7 @@
 
 [//]: # (最常用的语言)
 <div align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlz-jack&layout=compact&locale=cn&theme=algolia"/>
+    <img height="200px" src="https://sxlz-readme-stats.vercel.app/api/top-langs/?username=sxlz-jack&layout=compact&locale=cn&theme=algolia"/>
 </div>
 
 [//]: # (活动数据折线图)
