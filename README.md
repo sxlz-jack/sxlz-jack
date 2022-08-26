@@ -114,9 +114,9 @@
 <br>
   <span >
    <img  src="https://sxlz-shields.herokuapp.com/badge/看书-0288D1?&logo=BookStack&logoColor=white"/>
-   <img  src="https://sxlz-shields.herokuapp.com/badge/-观影-1572B6?&logo=Warner Bros.&logoColor=white"/>
-   <img  src="https://sxlz-shields.herokuapp.com/badge/-跑步-0079C1?&logo=Corona Engine" />
-   <img  src="https://sxlz-shields.herokuapp.com/badge/听音乐-84BD00?&logo=Apple Music&logoColor=white">
+   <img  src="https://sxlz-shields.herokuapp.com/badge/-观影-1572B6?&logo=WarnerBros&logoColor=white"/>
+   <img  src="https://sxlz-shields.herokuapp.com/badge/-跑步-0079C1?&logo=CoronaEngine" />
+   <img  src="https://sxlz-shields.herokuapp.com/badge/听音乐-84BD00?&logo=AppleMusic&logoColor=white">
   </span>
 <br><br>
 
