@@ -41,7 +41,7 @@
   <img src="https://sxlz-shields.herokuapp.com/badge/Linux-FCC624?&logo=linux&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Android-3DDC84?&logo=Android&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Windows-0078D6?&logo=Windows&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/ABB RobotStudio-FF9E0F?&logo=ABB RobotStudio&logoColor=white">
+  <img src="https://shields.io/badge/ABB RobotStudio-FF9E0F?&logo=ABB RobotStudio&logoColor=white">
   </span>
 <br><br>
 
@@ -54,13 +54,13 @@
   <img src="https://sxlz-shields.herokuapp.com/badge/python-3776AB?&logo=python&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/react-61DAFB?&logo=react&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Node.js-339933?&logo=Node.js&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/Spring Boot-6db33f?&logo=Spring Boot&logoColor=white">
+  <img src="https://shields.io/badge/Spring Boot-6db33f?&logo=Spring Boot&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/VMware-607078?&logo=VMware&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Git-F05032?&logo=Git&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/Adobe Premiere Pro-9999ff?&logo=Adobe Premiere Pro&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/Adobe Photoshop-31a8ff?&logo=Adobe Photoshop&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/Adobe After Effects-04ACE6?&logo=Adobe After Effects&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/Cinema 4D-011A6A?&logo=Cinema 4D&logoColor=white">
+  <img src="https://shields.io/badge/Adobe Premiere Pro-9999ff?&logo=Adobe Premiere Pro&logoColor=white">
+  <img src="https://shields.io/badge/Adobe Photoshop-31a8ff?&logo=Adobe Photoshop&logoColor=white">
+  <img src="https://shields.io/badge/Adobe After Effects-04ACE6?&logo=Adobe After Effects&logoColor=white">
+  <img src="https://shields.io/badge/Cinema 4D-011A6A?&logo=Cinema4D&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Houdini-FF4713?&logo=Houdini&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Blender-F5792A?&logo=Blender&logoColor=white">
 </span>
@@ -72,8 +72,8 @@
 <font size="8">IDE：</font>
 <br>
   <span >
-  <img src="https://sxlz-shields.herokuapp.com/badge/IDEA-blue?&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://sxlz-shields.herokuapp.com/badge/Sublime Text-FF9800?&logo=Sublime Text&logoColor=white">
+  <img src="https://sxlz-shields.herokuapp.com/badge/IDEA-blue?&logo=IntelliJIDEA&logoColor=white">
+  <img src="https://shields.io/badge/Sublime Text-FF9800?&logo=Sublime Text&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/Visual Studio Code-007ACC?&logo=Visual Studio Code&logoColor=white">
   <img src="https://sxlz-shields.herokuapp.com/badge/WebStorm-535D6C?&logo=WebStorm&logoColor=white">
   </span>
