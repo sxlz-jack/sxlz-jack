@@ -172,7 +172,16 @@
 ###  <a href="https://www.douban.com/people/wxq888/" target="_blank">豆瓣</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/32486616/' target='_blank'>看过嘉南传</a> - 2021-11-02
+* <a href='http://movie.douban.com/subject/1296286/' target='_blank'>看过遗失的世界</a> - 2020-08-10
+* <a href='http://movie.douban.com/subject/1292722/' target='_blank'>看过泰坦尼克号</a> - 2020-08-08
+* <a href='http://movie.douban.com/subject/1295644/' target='_blank'>看过这个杀手不太冷</a> - 2020-08-08
+* <a href='http://movie.douban.com/subject/1292720/' target='_blank'>看过阿甘正传</a> - 2020-08-08
+* <a href='http://movie.douban.com/subject/1291546/' target='_blank'>看过霸王别姬</a> - 2020-08-08
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> - 2020-08-08
+* <a href='http://movie.douban.com/subject/5364905/' target='_blank'>看过天机·富春山居图</a> - 2020-08-07
+* <a href='http://movie.douban.com/subject/20273800/' target='_blank'>看过彷徨之刃</a> - 2020-08-07
+* <a href='http://movie.douban.com/subject/30394535/' target='_blank'>看过被光抓走的人</a> - 2020-08-07
 <!-- END_SECTION:douban -->
 </td>
 </tr>
