@@ -173,7 +173,7 @@
 ###  <a href="https://www.douban.com/people/wxq888/" target="_blank">豆瓣</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/32486616/' target='_blank'>看过嘉南传</a> 🌟🌟🌟🌟🌟 力荐- 2021-11-02
+
 <!-- END_SECTION:douban -->
 </td>
 </tr>
