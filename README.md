@@ -130,7 +130,7 @@
 
 [//]: # (合计贡献以及连续贡献记录)
 <div align="center">
-    <img height="200px" src="https://sxlz-streak.herokuapp.com/?user=sxlz-jack&theme=algolia&locale=zh"/>
+    <img height="200px" src="https://streak-stats.demolab.com?user=sxlz-jack&theme=algolia&locale=zh"/>
 </div>
 
 [//]: # (最常用的语言)
@@ -143,7 +143,7 @@
 
 [//]: # (活动数据折线图)
 
-[![Ashutosh's github activity graph](https://sxlz-activity-graph.herokuapp.com/graph?username=sxlz-jack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sxlz-jack&theme=react-dark)](https://github.com/sxlz-jack/github-readme-activity-graph)
 
 
 [//]: # (贪吃蛇活动图)
