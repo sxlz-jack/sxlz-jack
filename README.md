@@ -157,7 +157,7 @@
    <tr>
        <td  valign="top" width="50%">
 
-### <a href="http://sxlz.me/" target="_blank">博客</a>
+### <a href="http://blog.sxlz.org/" target="_blank">博客</a>
 
 <!-- START_SECTION:blog -->
 * <a href='http://example.com/post/%E5%88%A9%E7%94%A8Microsoft%20azure%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E9%AD%94%E6%B3%95%E9%97%A8.html' target='_blank'>利用microsoft azure搭建一个神奇的魔法门</a> - 2022-08-26
