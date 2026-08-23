@@ -20,7 +20,7 @@
 <br>
 <li>
 <img height="100" src="https://cdn.jsdelivr.net/gh/sxlz-jack/sxlz-jack/assets/martina-remote-work-with-a-laptop.gif" width="100"/>
-<font size="3"><strong>一名非科班学生，在重庆，以所掌握的绵薄知识量，去折腾一翻，喜欢对身边的事物深入探究原理。</font></strong></li>
+<font size="3"><strong>一名FDE前沿部署工程师。</font></strong></li>
 <br><br>
 
 
